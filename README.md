@@ -14,7 +14,7 @@ A sleek and simple To-Do List app built with Flutter and Hive for local storage.
 - **Material Design** 🎨  
 
 ## 📸 Screenshots
-![Image](https://github.com/user-attachments/assets/2e722ed3-9885-4650-a830-c83186b40ef9)
+![Image](https://github.com/user-attachments/assets/7e4edc66-b05b-44e6-8dd7-a1e5dc00d5c9)
 
 ## 🚀 Getting Started
 
